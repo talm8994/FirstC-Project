@@ -10,6 +10,13 @@ using namespace std;
 
 int main()
 {
+	cout << "This is how you talk to console in C++" << endl;
+
+	int temp;
+
+	cin >> temp;
+	cout << temp;
+
 	return 0;
 }
 
